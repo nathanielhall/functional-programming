@@ -1,0 +1,22 @@
+{
+  "name": "functional-programming",
+  "version": "1.0.0",
+  "description": "Review functional programming concepts using JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "functional",
+    "validation",
+    "javascript"
+  ],
+  "author": "Nathaniel C. Hall",
+  "license": "ISC",
+  "dependencies": {
+    "immutable": "^4.0.0-rc.12",
+    "immutable-ext": "^1.1.5",
+    "lodash": "^4.17.20",
+    "ramda": "^0.27.1"
+  }
+}
